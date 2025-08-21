@@ -29,8 +29,9 @@ This project helps security learners and professionals quickly check if websites
 
 ---
 
-## 📦 Installation
-Clone the repo:
-```bash
-git clone https://github.com/your-username/Website-Security-Header-Analyzer.git
-cd Website-Security-Header-Analyzer
+## 📦 Project Access
+You can view and try the project here:
+https://website-security-header-analyzer.streamlit.app/
+Github Repository
+https://github.com/Nivas-Kanniah/Website-Security-Header-Analyzer
+
